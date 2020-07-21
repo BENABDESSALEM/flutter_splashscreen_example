@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
       backgroundColor: Colors.black,
       styleTextUnderTheLoader: new TextStyle(),
       photoSize: 150.0,
-      onClick: () => print("Flutter Egypt"),
+      onClick: () => print("Flutter Tunisia"),
       loaderColor: Colors.white,
     );
   }
